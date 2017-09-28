@@ -7,11 +7,11 @@
 	"license": "MIT",
 	"authors": [],
 	"ignore": [
-		"!dist/",
+		"**/*",
+		"!dist/**/*",
 		"!CHANGELOG.md",
 		"!bower.json",
-		"!README.md",  
-		"**/*"
+		"!README.md"
 	],
 	"main": "dist/main.js",
 	"repository": {
