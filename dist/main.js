@@ -159,4 +159,4 @@ return /******/ (function(modules) { // webpackBootstrap
 });
 ;
 
-/* facebookpixeladapter temp */
+/* facebookpixeladapter 0.1.2 */
