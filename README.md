@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/D-Mobilelab/facebookpixeladapter/badge.svg?branch=master&v=1)](https://coveralls.io/github/D-Mobilelab/facebookpixeladapter?branch=master)
 [![npm version](https://badge.fury.io/js/facebookpixeladapter.svg)](https://badge.fury.io/js/facebookpixeladapter)
 [![Bower version](https://badge.fury.io/bo/facebookpixeladapter.svg)](https://badge.fury.io/bo/facebookpixeladapter)
-[![GitHub version](https://badge.fury.io/gh/D-Mobilelab%2Ffacebookpixeladapter.svg)](https://badge.fury.io/gh/D-Mobilelab%2Ffacebookpixeladapter)
+[![GitHub version](https://badge.fury.io/gh/D-Mobilelab%2Ffacebookpixeladapter.svg)](https://badge.fury.io/gh/D-Mobilelab%2Ffacebookpixeladapter) [![Greenkeeper badge](https://badges.greenkeeper.io/D-Mobilelab/facebookpixeladapter.svg)](https://greenkeeper.io/)
 
 ## Installation
 
